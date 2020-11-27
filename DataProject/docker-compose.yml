@@ -1,0 +1,15 @@
+version: '2'
+
+services:
+
+  cassandra:
+    image: cassandra:latest
+
+  cqlsh:
+    image: cassandra:latest
+    entrypoint: cqlsh cassandra
+
+  nifi:
+    image: apache/nifi:latest
+    ports:
+      - 8888:8080
