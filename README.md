@@ -31,4 +31,4 @@ How to use the app:
 2. Fill the form and click "Enviar"
 3. The result will appear automatically
 
-Feell free to navigate through the website https://penades497.editorx.io/qualitylife to discover our cities. 
+Feel free to navigate through the website https://penades497.editorx.io/qualitylife to discover our cities. 
