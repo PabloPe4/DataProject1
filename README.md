@@ -1,4 +1,4 @@
-# DataProject1
+# QUALITY LIFE - Team FIJI
 
 The Quality Life project is running in a virtual machine in Google Cloud. 
 
