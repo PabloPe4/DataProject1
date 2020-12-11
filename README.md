@@ -9,7 +9,7 @@ The Quality Life project is running in a virtual machine in Google Cloud.
 
 - CASSANDRA 
 
-- SPARK: http://34.121.108.20:9999
+- ZEPPELIN: http://34.121.108.20:9999
 
 - WIX 
 
