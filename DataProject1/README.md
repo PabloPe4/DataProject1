@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
+
 # QUALITY LIFE - Team FIJI
 
 The Quality Life project is running in a virtual machine in Google Cloud. 
@@ -36,9 +33,7 @@ How to use the app:
 3. The result will appear automatically
 
 Feel free to navigate through the website https://penades497.editorx.io/qualitylife to discover our cities. 
-<<<<<<< Updated upstream
-=======
-=======
+
 # DataProject1
 
 The Quality Life project is running in a virtual machine in Google Cloud. 
@@ -53,5 +48,4 @@ The Quality Life project is running in a virtual machine in Google Cloud.
 
 - WIX: https://penades497.editorx.io/qualitylife
 
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+
